@@ -1,7 +1,7 @@
 <br><br><br>
 <div class="row">
     <div class="container">
-        <h3>Tecnologico Mario Molina</h3>
+        <h3>Instituto Tecnológico Mario Molina Campus Arandas </h3>
     </div>
 </div>
 <br>
@@ -10,23 +10,25 @@
     <div class="container">
         <div class="container">
             <br>
-            <h5>ACTIVIDADES DE INGENIERIA AMBIENTAL</h5>
+            <button id="boton" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                <h5>ACTIVIDADES DE INGENIERIA AMBIENTAL</h5>
+            </button>
             <br>
         </div>
-        <div class="container">
+        <div id="collapseOne" class="collapse hide" aria-labelledby="headingOne" data-parent="#accordion">
             <div class="container">
                 <h6>Conferencias</h6>
             </div>
             <div class="container">
                 <p>
-                    manejo de residuos porcicola <br>
-                    Mtro. Gerardo Dominguez araujo <br>
-                    25 de octubre 16:30 a 18:00
+                    Manejo De Residuos Porcicola <br>
+                    Mtro. Gerardo Domínguez Araujo <br>
+                    25 De Octubre 16:30 A 18:00 
                 </p>
                 <p>
-                    Selección de sitios para implementacion de relleno sanitario <br>
+                    Selección De Sitios Para Implementación De Relleno Sanitario <br>
                     Ing. Alfredo García Pérez <br>
-                    25 de octubre 18:00 a 19:30
+                    25 De Octubre 18:00 A 19:30
                 </p>
             </div>
             <br>
@@ -34,11 +36,12 @@
                 <h6>Taller</h6>
             </div>
             <div class="container">
-                <p>
-                    Elaboración de Atlas de Riesgo <br>
-                    Ing. Alfredo García Pérez <br>
-                    26 de octubre 15:00 a 18:00
-                </p>
+            <p>
+                Elaboración De Atlas De Riesgo <br>
+                Ing. Alfredo García Pérez <br>
+                26 De Octubre 15:00 A 18:00
+            </p>
+
             </div>
         </div>
     </div>
@@ -46,43 +49,45 @@
     <div class="container">
         <div class="container">
             <br>
-            <h5>ACTIVIDADES DE INGENIERIA EN GERSTION EMPRESARIAL</h5>
+            <button id="boton" class="btn btn-link" data-toggle="collapse" data-target="#collapsetwo" aria-expanded="true" aria-controls="collapsetwo">
+                <h5>ACTIVIDADES DE INGENIERIA EN GESTION EMPRESARIAL</h5>
+            </button>
             <br>
         </div>
-        <div class="container">
+        <div id="collapsetwo" class="collapse hide" aria-labelledby="headingtwo" data-parent="#accordion">
             <div class="container">
                 <h6>Conferencias</h6>
             </div>
             <div class="container">
                 <p>
-                    Prácticas Desleales del Comercio Internacional <br>
+                    Prácticas Desleales Del Comercio Internacional <br>
                     Dr. Eduardo Castañeda Chávez <br>
-                    25 de Octubre 9:00 am
+                    25 De Octubre 9:00 Am
                 </p>
                 <p>
-                    Como Hacer Negocios con China. <br>
+                    Como Hacer Negocios Con China. <br>
                     Dr. Eduardo Castañeda Chávez <br>
-                    25 de Octubre 2:30 pm
+                    25 De Octubre 2:30 Pm
                 </p>
                 <p>
-                    Vigilancia tecnológica, herramienta para la toma de decisiones de una organización. <br>
+                    Vigilancia Tecnológica, Herramienta Para La Toma De Decisiones De Una Organización. <br>
                     Alejandra Rosales Soto <br>
-                    26 de Octubre 9:00 am
+                    26 De Octubre 9:00 Am <br>
                 </p>
                 <p>
-                    Desarrollo de Negocios <br>
-                    Co - propietario de  Tejas el Águila  <br>
-                    26 de Octubre 11:00 am
+                    Desarrollo De Negocios <br>
+                    Co - Propietario De Tejas El Águila <br>
+                    26 De Octubre 11:00 Am
                 </p>
                 <p>
-                    Las Etiquetas y certificaciones ambientales en la industria, que son y para qué sirven <br> 
+                    Las Etiquetas Y Certificaciones Ambientales En La Industria, Que Son Y Para Qué Sirven <br>
                     Dr. Isela López López <br>
-                    26 de Octubre 3:00 pm
+                    26 De Octubre 3:00 Pm
                 </p>
                 <p>
                     Marcas Con Valor. <br>
                     Mtro. Francisco Cervantes García <br>
-                    26 de Octubre 5:00 pm <br>
+                    26 De Octubre 5:00 Pm <br>
                 </p>
             </div>
             <div class="container">
@@ -90,14 +95,14 @@
             </div>
             <div class="container">
                 <p>
-                    Identificación  de invenciones y características  a proteger<br>
+                    Identificación De Invenciones Y Características A Proteger <br>
                     IMPI <br>
-                    25 de Octubre 4:15 pm
+                    25 De Octubre 4:15 Pm <br>
                 </p>
                 <p>
-                    Como clasificar  adecuadamente  tu marca  y/o llenado de  solicitudes  y signos distintivos <br>
+                    Como Clasificar Adecuadamente Tu Marca Y/O Llenado De Solicitudes Y Signos Distintivos <br>
                     IMPI <br>
-                    25 de Octubre 11:00 am
+                    25 De Octubre 11:00 Am <br>
                 </p>
             </div>
         </div>
@@ -106,38 +111,40 @@
     <div class="container">
         <div class="container">
             <br>
-            <h5 class="">ACTIVIDADES DE INGENIERÍA ELECTROMECÁNICA</h5>
+            <button id="boton" class="btn btn-link" data-toggle="collapse" data-target="#collapsethree" aria-expanded="true" aria-controls="collapsethree">
+                <h5 class="">ACTIVIDADES DE INGENIERÍA ELECTROMECÁNICA</h5>
+            </button>
             <br>
         </div>
-        <div class="container">
+        <div id="collapsethree" class="collapse hide" aria-labelledby="headingthree" data-parent="#accordion">
             <div class="container">
                 <h6>Conferencias</h6>
             </div>
             <div class="container">
                 <p>
-                    Cálculo y selección de bombas <br>
+                    Cálculo Y Selección De Bombas <br>
                     Ing. Fernando González Torres <br>
-                    25 de Octubre 4:00 – 6:00 p.m.
+                    25 De Octubre 4:00 – 6:00 P.M. 
                 </p>
                 <p>
-                    El papel del ingeniero en el área eléctrica <br>
+                    El Papel Del Ingeniero En El Área Eléctrica <br>
                     Ing. Jesús Arturo Espinoza Villa <br>
-                    25 de Octubre 10:00 – 12:00 p.m.
+                    25 De Octubre 10:00 – 12:00 P.M.
                 </p>
                 <p>
-                    Redes de distribución eléctrica en media tensión <br>
+                    Redes De Distribución Eléctrica En Media Tensión <br>
                     Ing. Juan Pablo Hernández Jiménez <br>
-                    26 de Octubre 4:00-6:00 p.m. 
-                </p>
+                    26 De Octubre 4:00-6:00 P.M. 
+                </p>        
             </div>
             <div class="container">
                 <h6>Taller</h6>
             </div>
             <div class="container">
                 <p>
-                    Manejo de incendios<br>
-                    Ing. Julio César Marín Amezquita <br>
-                    26 de Octubre 10:00 – 12:00 p.m.
+                    Manejo De Incendios <br>
+                    Ing. Julio César Marín <br>
+                    26 De Octubre 10:00 – 12:00 P.M. <br>
                 </p>
             </div>
         </div>
@@ -146,25 +153,27 @@
     <div class="container">
         <div class="container">
             <br>
-            <h5 class="">ACTIVIDADES DE INGENIERÍA EN INDUSTRIAS ALIMENTARIAS</h5>
+            <button id="boton" class="btn btn-link" data-toggle="collapse" data-target="#collapsefour" aria-expanded="true" aria-controls="collapsefour">
+                <h5 class="">ACTIVIDADES DE INGENIERÍA EN INDUSTRIAS ALIMENTARIAS</h5>
+            </button>
             <br>    
         </div>  
-        <div class="container">
+        <div id="collapsefour" class="collapse hide" aria-labelledby="headingfour" data-parent="#accordion">
             <div class="container">
                 <h6>Conferencias</h6>
             </div>
             <div class="container">
                 <p>
-                    Presencia de microToxinas <br>
-                    Erika guadalupe<br>
-                    taller de alimentos edificio b <br>
-                    25 agosoto 5 pm
+                    Presencia De Micro Toxinas <br>
+                    Erika Guadalupe <br>
+                    Taller De Alimentos Edificio B <br>
+                    25 Agostó 5 Pm
                 </p>
                 <p>
-                    parametro de calidad de los sistemas de produccion carnicos <br>
+                    Parámetro De Calidad De Los Sistemas De Producción Cárnicos <br>
                     Ing. Francisco Javier Araujo <br>
-                    Aula de usuos multiples <br>
-                    24 agosoto 1 pm
+                    Aula De Usos Múltiples <br>
+                    24 Agostó 1 Pm
                 </p>
             </div>
             <div class="container">
@@ -172,58 +181,58 @@
             </div>
             <div class="container">
                 <p>
-                    Elaboracion de polvitos magicos <br>
-                    Ing. Carlos Omar Garcia <br>
-                    taller de alimentos edificio b <br>
-                    22 agosoto 11 am
+                    Elaboración De Polvitos Mágicos <br>
+                    Ing. Carlos Omar García <br>
+                    Taller De Alimentos Edificio B <br>
+                    22 Agostó 11 Am
                 </p>
                 <p>
-                    Elaboracion de ate de guayaba <br>
-                    Ing. Agustin Jaime Delgadillo  <br>
-                    taller de alimentos edificio b <br>
-                    22 agosoto 5 pm
+                    Elaboración De Ate De Guayaba <br>
+                    Ing. Agustín Jaime Delgadillo <br>
+                    Taller De Alimentos Edificio B <br>
+                    22 Agostó 5 Pm
                 </p>
                 <p>
-                    Elaboracion de cacahuate Japones <br>
+                    Elaboración De Cacahuate Japonés <br>
                     Ing. Lorenzo Zamorano <br>
-                    taller de alimentos edificio b <br>
-                    23 agosoto 11 am
+                    Taller De Alimentos Edificio B <br>
+                    23 Agostó 11 Am
                 </p>
                 <p>
-                    Elaboracion de polvitos magicos <br>
-                    Ing. Rosendo Velazquez <br>
-                    taller de alimentos edificio b <br>
-                    23 agosoto 5 pm
+                    Elaboración De Polvitos Mágicos <br>
+                    Ing. Rosendo Velázquez <br>
+                    Taller De Alimentos Edificio B <br>
+                    23 Agostó 5 Pm
+                </p>
+                <p>     
+                    Elaboración De Polvitos Mágicos <br>
+                    Ing. Carlos Omar García <br>
+                    Taller De Alimentos Edificio B <br>
+                    23 Agostó 5 Pm
+                </p>
+                <p>    
+                    Elaboración De Cacahuate Japonés <br>
+                    Ing. Carlos Omar García <br>
+                    Taller De Alimentos Edificio B <br>
+                    24 Agostó 11 Am
                 </p>
                 <p>
-                    Elaboracion de polvitos magicos <br>
-                    Ing. Carlos Omar Garcia <br>
-                    taller de alimentos edificio b <br>
-                    23 agosoto 5 pm
+                    Elaboración De Helado <br>
+                    Ing. María López E Ing. Carlos Omar García <br>
+                    Taller De Alimentos Edificio B <br>
+                    24 Agostó 5 Pm
                 </p>
                 <p>
-                    Elaboracion de cacahuate Japones <br>
-                    Ing. Carlos Omar Garcia <br>
-                    taller de alimentos edificio b <br>
-                    24 agosoto 11 am
+                    Parámetros De Calidad En La Elaboración De Queso Panela <br>
+                    Ing. Oscar Ornelas Martin E Ing. Carlos Omar García <br>
+                    Taller De Alimentos Edificio B <br>
+                    25 Agostó 1 Pm
                 </p>
                 <p>
-                    Elaboracion de Helado <br>
-                    Ing. Maria Lopez e Ing. Carlos Omar Garcia <br>
-                    taller de alimentos edificio b <br>
-                    24 agosoto 5 pm
-                </p>
-                <p>
-                    parametros de calidad en la elaboracion de queso panela <br>
-                    Ing. Oscar Ornelas Martin e Ing. Carlos Omar Garcia <br>
-                    taller de alimentos edificio b <br>
-                    25 agosoto 1 pm
-                </p>
-                <p>
-                    Elaboracion de productos a base de suero de leche<br>
-                    Ing. Rosendo Velazquez e Isaac Contreras <br>
-                    taller de alimentos edificio b <br>
-                    25 agosoto 1 pm
+                    Elaboración De Productos A Base De Suero De Leche <br>
+                    Ing. Rosendo Velázquez E Isaac Contreras <br>
+                    Taller De Alimentos Edificio B <br>
+                    25 Agostó 1 Pm
                 </p>
             </div>
         </div>
@@ -232,23 +241,25 @@
     <div class="container">
         <div class="container">
             <br>
-            <h5 class="">ACTIVIDADES DE INGENIERÍA EN SISTEMAS COMPUTACIONALES</h5>
+            <button id="boton" class="btn btn-link" data-toggle="collapse" data-target="#collapsefive" aria-expanded="true" aria-controls="collapsefive">
+                <h5 class="">ACTIVIDADES DE INGENIERÍA EN SISTEMAS COMPUTACIONALES</h5>
+            </button>        
             <br>
         </div>
-        <div class="container">
+        <div id="collapsefive" class="collapse hide" aria-labelledby="headingfive" data-parent="#accordion">
             <div class="container">
                 <h6>Conferencias</h6>
             </div>
             <div class="container">
                 <p>
-                    Emprendurismo (con enfoque en TI) <br>
-                    Alejandro Chávez Castillo  <br>
-                    25 de Octubre 11 – 12:00 p.m.
+                    Emprendurismo (Con Enfoque En TI) <br>
+                    Alejandro Chávez Castillo <br>
+                    25 De Octubre 11 – 12:00 P.M. <br>
                 </p>
                 <p>
-                    Administración de proyectos en TIs <br>
-                    Alejandro Chávez Castillo  <br>
-                    26 de Octubre 12:00 – 1:00 p.m.
+                    Administración De Proyectos En TIs <br> 
+                    Alejandro Chávez Castillo <br>
+                    26 De Octubre 12:00 – 1:00 P.M.
                 </p>
             </div>
             <div class="container">
@@ -256,19 +267,19 @@
             </div>
             <div class="container">
                 <p>
-                    Desarrollo de aplicaciones móviles con Android Studio y SqLite<br>
+                    Desarrollo De Aplicaciones Móviles Con Android Studio Y SqLite <br>
                     Juana Cecilia Dávila Barajas <br>
-                    26 de Octubre 8:00 - 14:00
+                    26 De Octubre 8:00 - 14:00
                 </p>
                 <p>
-                    Backend with Node and Express<br>
+                    Backend With Node And Express <br>
                     Miguel Ángel Jaime López <br>
-                    26 de Octubre 10:00-14:00
+                    26 De Octubre 10:00-14:00
                 </p>
                 <p>
-                    Programación en Javascript<br>
-                    Jonathan Gonzalez Franco <br>
-                    26 de Octubre 8:00 - 14:00
+                    Programación En Javascript <br>
+                    Jonathan González Franco <br>
+                    26 De Octubre 8:00 - 14:00 
                 </p>
             </div>
         </div>
@@ -277,11 +288,20 @@
 <style>
     p{
         font-family: inherit;
+        text-transform: capitalize;
+        text-decoration: none;        
     }
     h6{
         font-family: inherit;
+        text-transform: capitalize;
+        text-decoration: none;
     }
     h5{
         font-family: inherit;
+        text-transform: capitalize;
+        text-decoration: none;
+    }
+    #boton{
+        text-decoration: none;
     }
 </style>
