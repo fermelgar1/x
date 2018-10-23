@@ -284,6 +284,70 @@
             </div>
         </div>
     </div>
+        <!--industrial-->
+    <div class="container">
+        <div class="container">
+            <br>
+            <button id="boton" class="btn btn-link" data-toggle="collapse" data-target="#collapsesix" aria-expanded="true" aria-controls="collapsesix">
+                <h5 class="">ACTIVIDADES DE INGENIERÍA INDUSTRIAL</h5>
+            </button>        
+            <br>
+        </div>
+        <div id="collapsesix" class="collapse hide" aria-labelledby="headingsix" data-parent="#accordion">
+            <div class="container">
+                <h6>Conferencias</h6>
+            </div>
+            <div class="container">
+                <P>
+                    Proyectando mi futuro <br>
+                    Miguel Angel García Flores <br>
+                    25 De Octubre 10:30 - 11:30
+                </P>
+                <p>
+                    Requerimentos Legales en seguridad salud y medio ambiente <br>
+                    Ismael Salcedo Gomez <br>
+                    25 de Octubre 12:00 - 2:00pm 
+                </p>
+                <p>
+                    Espectativas de los egresados y Espectativas de los empresarios <br>
+                    Hector Sergio Hernandez Gonzalez <br>
+                    25 de Octubre 3:30 - 4:30
+                </p>
+                <p>
+                    Importancia de la seguridad en las empresas <br>
+                    Juan Miguel Cervantes <br>
+                    26 de Octubre 4:00 - 4:00
+                </p>
+                <p>
+                    Manufactura esbelta y seis sigma <br>
+                    Jose Miguel Brambilia Rubio <br>
+                    26 de Octubre 5:00 - 6:00 pm
+                </p>
+            </div>
+            <!--
+            <div class="container">
+                <h6>Taller</h6>
+            </div>
+            <div class="container">
+                <p>
+                    Desarrollo De Aplicaciones Móviles Con Android Studio Y SqLite <br>
+                    Juana Cecilia Dávila Barajas <br>
+                    26 De Octubre 8:00 - 14:00
+                </p>
+                <p>
+                    Backend With Node And Express <br>
+                    Miguel Ángel Jaime López <br>
+                    26 De Octubre 10:00-14:00
+                </p>
+                <p>
+                    Programación En Javascript <br>
+                    Jonathan González Franco <br>
+                    26 De Octubre 8:00 - 14:00 
+                </p>
+            </div>
+            -->
+        </div>
+    </div>
 </div>
 <style>
     p{
