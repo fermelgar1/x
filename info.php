@@ -173,7 +173,7 @@
                     Parámetro De Calidad De Los Sistemas De Producción Cárnicos <br>
                     Ing. Francisco Javier Araujo <br>
                     Aula De Usos Múltiples <br>
-                    24 Agostó 1 Pm
+                    26 Agostó 1 Pm
                 </p>
             </div>
             <div class="container">
@@ -204,12 +204,6 @@
                     Taller De Alimentos Edificio B <br>
                     23 Agostó 5 Pm
                 </p>
-                <p>     
-                    Elaboración De Polvitos Mágicos <br>
-                    Ing. Carlos Omar García <br>
-                    Taller De Alimentos Edificio B <br>
-                    23 Agostó 5 Pm
-                </p>
                 <p>    
                     Elaboración De Cacahuate Japonés <br>
                     Ing. Carlos Omar García <br>
@@ -232,7 +226,7 @@
                     Elaboración De Productos A Base De Suero De Leche <br>
                     Ing. Rosendo Velázquez E Isaac Contreras <br>
                     Taller De Alimentos Edificio B <br>
-                    25 Agostó 1 Pm
+                    26 Agostó 1 Pm
                 </p>
             </div>
         </div>
